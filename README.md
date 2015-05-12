@@ -42,7 +42,7 @@ First, edit *wdi_3_js_firebase_intro/app/js/index.js*, and replace `<Firebase Ap
 
 ```bash
 $ npm install -g firebase-tools
-$ cd wdi_3_js_firebase_intro`
+$ cd wdi_3_js_firebase_intro
 $ firebase init
 ```
 
