@@ -24,13 +24,13 @@ $ bower install
 
 ### Sign up for Firebase
 
-Follow the link to sign up for Firebase:  **[Firebase sign up](https://www.firebase.com/signup/)** _(A data storage and synchronization solution )_
+Follow this link to sign up for Firebase, **[Firebase sign up](https://www.firebase.com/signup/)** _(A data storage and synchronization solution )_
 
 Firebase is among a set of solutions that provide mechanisms to store and retrieve structured data without requiring "back-end" development.  Please sign up for the free plan.
 
 ### Create a Firebase App
 
-After creating an account, follow this link: **[Dashboard](https://www.firebase.com/account/)** to the Firebase dashboard.
+After creating an account, follow this link, **[Dashboard](https://www.firebase.com/account/)**, to the Firebase dashboard.
 
 On the dashboard, create a new app named "Chat Example" with a unique URL (e.g. `<your-e-mail>`-chat-example).
 
@@ -77,7 +77,7 @@ Update the `ignore` section of `firebase.json` to exclude `bower_components`, `c
 
 Break up into groups and ensure that each of you can run the chat example app locally using `$ grunt serve`.
 
-After you verify that the app works locally, deploy it to the Firebase hosting site using `$firebase deploy`.
+After you verify that the app works locally, deploy it to the Firebase hosting site using `$ firebase deploy`.
 
 Once deployed, verify that each app works for all members of the group at the same time.
 
